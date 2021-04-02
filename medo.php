@@ -481,6 +481,13 @@
  "filename":"radio"
 
     },
+ {
+      "book": "BDChaurasia",
+      "author": "Volume 1",
+      "link": "https://ia902809.us.archive.org/19/items/BDChaurasiasHumanAnatomyVolume1MedicosTimes/BD_Chaurasia%E2%80%99s_Human_Anatomy%2C%20Volume%201%20-%20Upper%20Limb%20Thorax%2C%206th%20Edition.pdf",
+      "img":"https://i.imgur.com/F0bqnH9.jpg",
+      "filename":"https://ia902809.us.archive.org/19/items/BDChaurasiasHumanAnatomyVolume1MedicosTimes/BD_Chaurasia%E2%80%99s_Human_Anatomy%2C%20Volume%201%20-%20Upper%20Limb%20Thorax%2C%206th%20Edition.pdf"
+    },
 {
  "book": "RGUHS Papers",
 "author": "Anatomy",
